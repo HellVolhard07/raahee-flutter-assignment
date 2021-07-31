@@ -1,6 +1,6 @@
 # raahee_flutter_assignment
 
-Along with the UI I also added some basic functionalities to the buttons. I have attached the drive link with a video demo as well.
+Along with the UI I also added some basic functionalities to the buttons. I have attached the drive link with a video demo of it.
 
 
 
