@@ -5,7 +5,7 @@ Along with the UI I also added some basic functionalities to the buttons. I have
 
 
 ## Drive Link
-https://drive.google.com/file/d/12vbhV6yY_kxjPQnKtYU3qFikYuScjdiX/view?usp=sharing
+https://drive.google.com/drive/folders/1FY05U84TtIg8zDlhKJs7aab3EvzY4xyb?usp=sharing
 
 ## Screenshots
 
